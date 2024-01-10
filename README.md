@@ -14,3 +14,14 @@ The parameters : p = 9
 - obesity
 - alcohol : current alcohol consumption
 - age : age at onset
+
+## 5 different models :
+
+We try 5 machine learning models in order to compare the models between them and to choose the best predicting model : 
+- Decision Tree model
+- Bagging model
+- Random Forest model
+- AdaBoost model
+- Gradient Boosting model
+
+We fit the 5 models and make predictions
